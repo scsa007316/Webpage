@@ -1,10 +1,15 @@
-## Bon jour elliot
+# Aadarsh Singh
+
+
+##### Interests - Theoretical Physics , Philosophy , Mathematics , Cognitive Science , Spirituality 
+
+
 You can use the [editor on GitHub](https://github.com/scsa007316/Webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-![image of skull](https://github.com/scsa007316/Webpage/blob/master/moodywalk-lYHp4RcJNcY-unsplash.jpg)
+![image of skull](https://raw.githubusercontent.com/scsa007316/Webpage/master/moodywalk-lYHp4RcJNcY-unsplash.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
